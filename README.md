@@ -1,4 +1,4 @@
-# Streamlit Crash Course with Showcase Projects
+# Streamlit with Showcase Projects
 
 This repository contains a structured learning path to master Streamlit using modern Python tools like `uv`. It starts from the basics and builds up to professional-level dashboards, using only core libraries such as Streamlit, pandas, and numpy.
 
@@ -41,4 +41,3 @@ You will learn how to build data apps, create interactive user interfaces, work 
 
 ---
 
-Subscribe to Chaicode or visit [Chaicode.com](https://www.chaicode.com) to get more detailed content about Streamlit.
